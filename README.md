@@ -17,30 +17,30 @@ Here are some ideas to get you started:
 
 **Social Medias:**
 
-[<img style="margin-right:10px" src="images/twitter.png" alt="Twitter" width="35"/>](https://twitter.com/guizioliveira)
-[<img style="margin-right:10px" src="images/instagram.png" alt="Instagram" width="35"/>](https://www.instagram.com/guizioliveira/)
-[<img style="margin-right:10px" src="images/linkedin.png" alt="Linkedin" width="35"/>](https://linkedin.com/in/guilherme-de-oliveira/)
-[<img style="margin-right:10px" src="images/github.png" alt="Github" width="35"/>](https://github.com/guizioliveira)
+[<img src="images/twitter.png" alt="Twitter" width="35"/>](https://twitter.com/guizioliveira)&nbsp;&nbsp;
+[<img src="images/instagram.png" alt="Instagram" width="35"/>](https://www.instagram.com/guizioliveira/)&nbsp;&nbsp;
+[<img src="images/linkedin.png" alt="Linkedin" width="35"/>](https://linkedin.com/in/guilherme-de-oliveira/)&nbsp;&nbsp;
+[<img src="images/github.png" alt="Github" width="35"/>](https://github.com/guizioliveira)&nbsp;&nbsp;
 [<img src="images/gmail.png" alt="Gmail" width="35"/>](mailto:guizi.oliveira@gmail.com)
 
 ---
 
 **Currently working with:**
 
-[<img style="margin-right:10px" src="images/react.png" alt="React" width="35"/>](https://reactjs.org/)
-[<img style="margin-right:10px" src="images/javascript.png" alt="Javascript" width="35"/>](https://en.wikipedia.org/wiki/JavaScript)
-[<img style="margin-right:10px" src="images/typescript.png" alt="Typescript" width="35"/>](https://www.typescriptlang.org/)
-[<img style="margin-right:10px" src="images/docker.png " alt="Docker" width="35"/>](https://www.docker.com/)
-[<img style="margin-right:10px" src="images/html.png" alt="HTML 5" width="35"/>](https://en.wikipedia.org/wiki/HTML)
-[<img style="margin-right:10px" src="images/css.png" alt="CSS 3" width="35"/>](https://en.wikipedia.org/wiki/CSS)
-[<img style="margin-right:10px" src="images/github.png" alt="Github" width="35"/>](https://github.com)
+[<img src="images/react.png" alt="React" width="35"/>](https://reactjs.org/)&nbsp;&nbsp;
+[<img src="images/javascript.png" alt="Javascript" width="35"/>](https://en.wikipedia.org/wiki/JavaScript)&nbsp;&nbsp;
+[<img src="images/typescript.png" alt="Typescript" width="35"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;
+[<img src="images/docker.png " alt="Docker" width="35"/>](https://www.docker.com/)&nbsp;&nbsp;
+[<img src="images/html.png" alt="HTML 5" width="35"/>](https://en.wikipedia.org/wiki/HTML)&nbsp;&nbsp;
+[<img src="images/css.png" alt="CSS 3" width="35"/>](https://en.wikipedia.org/wiki/CSS)&nbsp;&nbsp;
+[<img src="images/github.png" alt="Github" width="35"/>](https://github.com)&nbsp;&nbsp;
 [<img src="images/visual-studio-code.png" alt="Visual Studio Code" width="35"/>](https://code.visualstudio.com/)
 
 **Previously worked with:**
 
-[<img style="margin-right:10px" src="images/wordpress.png" alt="Wordpress" width="35"/>](https://wordpress.org/)
-[<img style="margin-right:10px" src="images/php.png" alt="PHP" width="35"/>](https://www.php.net/)
-[<img style="margin-right:10px" src="images/mysql.png" alt="MySQL" width="35"/>](https://www.mysql.com/)
-[<img style="margin-right:10px" src="images/postgress.png" alt="PostgreSQL" width="35"/>](https://www.postgresql.org/)
-[<img style="margin-right:10px" src="images/java.png" alt="Java" width="35"/>](https://code.visualstudio.com/)
+[<img src="images/wordpress.png" alt="Wordpress" width="35"/>](https://wordpress.org/)&nbsp;&nbsp;
+[<img src="images/php.png" alt="PHP" width="35"/>](https://www.php.net/)&nbsp;&nbsp;
+[<img src="images/mysql.png" alt="MySQL" width="35"/>](https://www.mysql.com/)&nbsp;&nbsp;
+[<img src="images/postgress.png" alt="PostgreSQL" width="35"/>](https://www.postgresql.org/)&nbsp;&nbsp;
+[<img src="images/java.png" alt="Java" width="35"/>](https://code.visualstudio.com/)&nbsp;&nbsp;
 [<img src="images/csharp.png" alt="CSharp" width="35"/>](http://csharp.net/)
