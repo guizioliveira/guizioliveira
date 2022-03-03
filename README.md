@@ -1,6 +1,7 @@
 # Hi, I'm Guilherme!
 
-## About
+### About
+<img src="images/warriors.png" width=150 align="right" />
 My name is Guilherme de Oliveira, but you will find me as `guizioliveira` online in most places. I've been working in development for over 10 years and I've spent most of that time learning as much as possible.
 
 I currently work as a frontender in a multinational company, but I have dedicated myself to working on my own on open source projects and helping the developer community. 
@@ -15,8 +16,9 @@ Feel free to look for me on my social media below:
 [<img src="images/github.png" alt="Github" width="35"/>](https://github.com/guizioliveira)&nbsp;&nbsp;
 [<img src="images/gmail.png" alt="Gmail" width="35"/>](mailto:guizi.oliveira@gmail.com)
 
-## Technical Skills
-
+---
+### Technical Skills
+<img src="images/code.png" width=150 align="right" />
 **Currently working with:**
 
 [<img src="images/react.png" alt="React" width="35"/>](https://reactjs.org/)&nbsp;&nbsp;
