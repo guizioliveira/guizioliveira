@@ -1,21 +1,13 @@
-### Hi there 👋
+# Hi, I'm Guilherme!
 
-<!--
-**guizioliveira/guizioliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+My name is Guilherme de Oliveira, but you will find me as `guizioliveira` online in most places. I've been working in development for over 10 years and I've spent most of that time learning as much as possible.
 
-Here are some ideas to get you started:
+I currently work as a frontender in a multinational company, but I have dedicated myself to working on my own on open source projects and helping the developer community. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I set as a goal this year (2022) to work on some personal projects, mostly focused on frontend and I intend to leave this profile with many updates whenever possible.
 
-**Social Medias:**
+Feel free to look for me on my social media below:
 
 [<img src="images/twitter.png" alt="Twitter" width="35"/>](https://twitter.com/guizioliveira)&nbsp;&nbsp;
 [<img src="images/instagram.png" alt="Instagram" width="35"/>](https://www.instagram.com/guizioliveira/)&nbsp;&nbsp;
@@ -23,7 +15,7 @@ Here are some ideas to get you started:
 [<img src="images/github.png" alt="Github" width="35"/>](https://github.com/guizioliveira)&nbsp;&nbsp;
 [<img src="images/gmail.png" alt="Gmail" width="35"/>](mailto:guizi.oliveira@gmail.com)
 
----
+## Technical Skills
 
 **Currently working with:**
 
