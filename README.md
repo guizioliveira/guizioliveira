@@ -23,7 +23,7 @@ Feel free to look for me on my social media below:
 
 **Currently working with:**
 
-[<img src="icons/react.png" alt="React" width="35"/>](https://reactjs.org/)&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank" title="React"><img src="icons/react.png" width="35"/></a>&nbsp;&nbsp;
 [<img src="icons/javascript.png" alt="Javascript" width="35"/>](https://en.wikipedia.org/wiki/JavaScript)&nbsp;&nbsp;
 [<img src="icons/typescript.png" alt="Typescript" width="35"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;
 [<img src="icons/docker.png " alt="Docker" width="35"/>](https://www.docker.com/)&nbsp;&nbsp;
