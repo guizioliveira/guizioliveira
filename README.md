@@ -1,10 +1,11 @@
 # Hi, I'm Guilherme!
 
-### About
+### :man_technologist: &nbsp; About
 <img src="images/warriors.png" width=150 align="right" />
-My name is Guilherme de Oliveira, but you will find me as `guizioliveira` online in most places. I've been working in development for over 10 years and I've spent most of that time learning as much as possible.
 
-I currently work as a frontender in a multinational company, but I have dedicated myself to working on my own on open source projects and helping the developer community. 
+My name is Guilherme de Oliveira, but you will find me as `guizioliveira` online in most places. I've been working in software development for over 10 years and I've spent most of that time learning as much as possible.
+
+I currently work as a frontend engineer in a multinational company, but I have dedicated myself to working on my own on open source projects and helping the developer community. 
 
 I set as a goal this year (2022) to work on some personal projects, mostly focused on frontend and I intend to leave this profile with many updates whenever possible.
 
@@ -17,8 +18,9 @@ Feel free to look for me on my social media below:
 [<img src="images/gmail.png" alt="Gmail" width="35"/>](mailto:guizi.oliveira@gmail.com)
 
 ---
-### Technical Skills
+### :computer: &nbsp;Technical Skills
 <img src="images/code.png" width=150 align="right" />
+
 **Currently working with:**
 
 [<img src="images/react.png" alt="React" width="35"/>](https://reactjs.org/)&nbsp;&nbsp;
