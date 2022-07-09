@@ -26,7 +26,7 @@ Feel free to look for me on my social media below:
 [<img src="icons/react.png" alt="React" width="35"/>](https://reactjs.org/)&nbsp;&nbsp;
 [<img src="icons/javascript.png" alt="Javascript" width="35"/>](https://en.wikipedia.org/wiki/JavaScript)&nbsp;&nbsp;
 [<img src="icons/typescript.png" alt="Typescript" width="35"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;
-[<img src="icons/docker.png " alt="Docker" width="35"/>](https://www.docker.com/)&nbsp;&nbsp;
+[<img src="icons/docker.png" alt="Docker" width="35"/>](https://www.docker.com/)&nbsp;&nbsp;
 [<img src="icons/html.png" alt="HTML 5" width="35"/>](https://en.wikipedia.org/wiki/HTML)&nbsp;&nbsp;
 [<img src="icons/css.png" alt="CSS 3" width="35"/>](https://en.wikipedia.org/wiki/CSS)&nbsp;&nbsp;
 [<img src="icons/github.png" alt="Github" width="35"/>](https://github.com)&nbsp;&nbsp;
