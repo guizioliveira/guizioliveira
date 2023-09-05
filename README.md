@@ -7,7 +7,7 @@ My name is Guilherme de Oliveira, but you will find me as `guizioliveira` online
 
 I currently work as a frontend engineer in a multinational company, but I have dedicated myself to working on my own on open source projects and helping the developer community. 
 
-I set as a goal this year (2022) to work on some personal projects, mostly focused on frontend and I intend to leave this profile with many updates whenever possible.
+In 2022 I set as a goal work on some personal projects, mostly focused on frontend and I intend to leave this profile with many updates whenever possible.
 
 Feel free to look for me on my social media below:
 
