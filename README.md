@@ -19,7 +19,7 @@ Feel free to look for me on my social media below:
 
 ---
 ### :computer: &nbsp;Technical Skills
-<img src="images/code.png" width=120 align="right" />
+<img src="images/code.png" width=160 align="right" />
 
 **Currently working with:**
 
